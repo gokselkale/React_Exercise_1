@@ -1,1 +1,2 @@
-# React_Exercise_1
+# React Exercise 1
+## Patika.dev React Ödev 1
